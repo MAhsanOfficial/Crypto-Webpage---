@@ -20,6 +20,8 @@ h4all.forEach(function(elem){
         crsr.style.scale=1
         crsr.style.backgroundColor="#95C11E"
     })  
+    
+    
 })
 
 
